@@ -5,3 +5,6 @@
 
 ## Description
 An app that you can send message for anyone and receive message from anyone.
+
+## How to use
+Click and use.
