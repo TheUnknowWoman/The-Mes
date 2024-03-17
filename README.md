@@ -7,4 +7,4 @@
 An app that you can send message for anyone and receive message from anyone.
 
 ## How to use
-Like Messenger.
+Like Messenger. Click and use.
